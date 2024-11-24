@@ -1,8 +1,6 @@
-# Mobile App Dev Class
+# Mobile App Dev Class 📱
 
-A new Flutter project.
-
-## Assignment 1: Login Page
+## Assignment 1: Login Page 🔐
 
 This assignment involves creating anything, so I created a **login page**.
 
@@ -10,7 +8,7 @@ This assignment involves creating anything, so I created a **login page**.
 
 ---
 
-## Assignment 2: Profile Page
+## Assignment 2: Profile Page 📝
 
 This assignment involves creating a **profile page** where users can enter their name, age, and upload a profile picture. The page displays the entered information and the uploaded profile picture.
 
